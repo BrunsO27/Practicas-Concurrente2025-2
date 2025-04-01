@@ -1,5 +1,3 @@
-package unam.fc.concurrent.practica4;
-
 import java.util.concurrent.atomic.AtomicInteger;
 
 /*

@@ -1,5 +1,3 @@
-package unam.fc.concurrent.practica4;
-
 /*
  * CLHLock.java
  *
